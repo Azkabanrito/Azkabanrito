@@ -1,0 +1,15 @@
+:root {
+  --first-color: #f48a33;
+  --first-mid-color: #eb6a00;
+  --second-color: #710ae3;
+  --third-color: #1110f4;
+  --third-mid-color: #5959f3;
+  --forth-color: #fa432e;
+  --white: #fff;
+  --white-two: #bbb4b4;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
